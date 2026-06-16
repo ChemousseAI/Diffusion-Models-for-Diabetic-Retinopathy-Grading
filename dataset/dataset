@@ -1,0 +1,27 @@
+## Dataset
+
+This work uses the **Indian Diabetic Retinopathy Image Dataset (IDRiD)** for diabetic retinopathy grading experiments.
+
+### Official Dataset Source
+
+* IDRiD Dataset (IEEE DataPort): https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid
+
+### Alternative Download Link
+
+* Google Drive: https://drive.google.com/drive/folders/19LS8sAVg2_11BR9LtY3di_eiWaZCPIZK?usp=sharing
+
+### Citation
+
+```bibtex
+@article{porwal2018idrid,
+  title={Indian Diabetic Retinopathy Image Dataset (IDRiD): A Database for Diabetic Retinopathy Screening Research},
+  author={Porwal, Prasanna and Pachade, Samiksha and Kamble, Rohan and Kokare, Manesh and Deshmukh, Girish and Sahasrabuddhe, Vivek and Meriaudeau, Fabrice},
+  journal={Data},
+  volume={3},
+  number={3},
+  pages={25},
+  year={2018}
+}
+```
+
+**Note:** The dataset is not redistributed in this repository. Users should download it from the official source or the alternative mirror provided above.
