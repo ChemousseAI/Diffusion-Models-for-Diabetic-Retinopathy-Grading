@@ -5,7 +5,7 @@
 
 🏥 Medical Imaging | 🧠 Deep Learning | 🎨 Diffusion Models
 
-This repository contains the official implementation of our published work: "**Enhancing Diabetic Retinopathy Grading with Advanced Diffusion Models**"
+This repository contains the official implementation of our published work: "**Enhancing Diabetic Retinopathy Grading with Advanced Diffusion Models**" (*this work has been published in 28 July 2024*)
 
 link: https://link.springer.com/chapter/10.1007/978-981-97-3559-4_17
 
