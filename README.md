@@ -195,14 +195,16 @@ This work demonstrates how modern generative AI techniques can be applied to sol
 ---
 # Citation Section
 
-@inproceedings{lakas2024enhancing,
-  title={Enhancing Diabetic Retinopathy Grading with Advanced Diffusion Models},
-  author={Lakas, Badia Ouissam and Berdjouh, Chemousse and Bouanane, Khadra and Kherfi, Mohammed Lamine and Aiadi, Oussama and Laouamer, Lamri and Cheddad, Abbas},
-  booktitle={International Congress on Information and Communication Technology},
-  pages={215--227},
-  year={2024},
+```bibtex
+@inproceedings{ouissam2025prodnet,
+  title={ProdNet: A Lightweight Network for Fast Discovery of Matrix Multiplication Algorithms},
+  author={Ouissam Lakas, Badia and Berdjouh, Chemousse and Bounane, Khadra and Lamine Kherfi, Mohammed and Aiadi, Oussama and Brahim Belhouari, Samir},
+  booktitle={International Conference on Intelligent Systems and Pattern Recognition},
+  pages={95--108},
+  year={2025},
   organization={Springer}
 }
+```
 
 ---
 Free PDF: https://drive.google.com/file/d/1fQWRAKs7mhNk2_jM2068IROaBr8bQ8aa/view?usp=sharing
