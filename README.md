@@ -186,9 +186,12 @@ Future research may investigate:
 
 
 
-## Conclusion
+## Why This Project Matters
 
-This study demonstrates that diffusion-model-based augmentation provides a more effective alternative to traditional augmentation methods for diabetic retinopathy grading. By generating realistic and diverse retinal images, diffusion models improve classification accuracy, reduce overfitting, and enhance model generalization, making them a promising direction for future medical AI systems.
+Medical datasets are difficult and expensive to collect and annotate. Diffusion models provide a promising approach for generating realistic synthetic data that can improve model generalization and reduce the impact of class imbalance.
+
+This work demonstrates how modern generative AI techniques can be applied to solve practical challenges in medical image analysis.
+
 
 ---
 Free PDF: https://drive.google.com/file/d/1fQWRAKs7mhNk2_jM2068IROaBr8bQ8aa/view?usp=sharing
