@@ -192,6 +192,17 @@ Medical datasets are difficult and expensive to collect and annotate. Diffusion 
 
 This work demonstrates how modern generative AI techniques can be applied to solve practical challenges in medical image analysis.
 
+---
+# Citation Section
+
+@inproceedings{lakas2024enhancing,
+  title={Enhancing Diabetic Retinopathy Grading with Advanced Diffusion Models},
+  author={Lakas, Badia Ouissam and Berdjouh, Chemousse and Bouanane, Khadra and Kherfi, Mohammed Lamine and Aiadi, Oussama and Laouamer, Lamri and Cheddad, Abbas},
+  booktitle={International Congress on Information and Communication Technology},
+  pages={215--227},
+  year={2024},
+  organization={Springer}
+}
 
 ---
 Free PDF: https://drive.google.com/file/d/1fQWRAKs7mhNk2_jM2068IROaBr8bQ8aa/view?usp=sharing
