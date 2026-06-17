@@ -3,6 +3,11 @@
 
 📄 Published Research Paper
 
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](#)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange)](#)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+
 🏥 Medical Imaging | 🧠 Deep Learning | 🎨 Diffusion Models
 
 This repository contains the official implementation of our published work: "**Enhancing Diabetic Retinopathy Grading with Advanced Diffusion Models**" (*this work has been published in 28 July 2024*)
